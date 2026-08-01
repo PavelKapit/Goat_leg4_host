@@ -1,0 +1,50 @@
+name: Daily Represent Scraper
+
+# Runs every day at 05:00 London time (Europe/London).
+# GitHub Actions automatically handles the BST/GMT (summer/winter) switch
+# when a timezone is specified alongside the cron expression.
+on:
+  schedule:
+    - cron: "0 5 * * *"
+      timezone: "Europe/London"
+  workflow_dispatch: {}  # allows manual trigger from the Actions tab for testing
+
+permissions:
+  contents: write  # required to commit output files back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90  # scraping takes ~38 min (2255s) currently; generous buffer
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper (reads target from TARGET.txt)
+        run: python main.py --name "Чудокаталог"
+
+      - name: Upload output as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: represent-catalog-${{ github.run_id }}
+          path: outputs/
+          retention-days: 30
+
+      - name: Commit output files back to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/ logs/
+          git diff --staged --quiet || git commit -m "Daily scrape: $(date +'%d.%m.%Y')"
+          git push
