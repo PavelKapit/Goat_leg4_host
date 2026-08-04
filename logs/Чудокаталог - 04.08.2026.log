@@ -1,0 +1,54 @@
+2026-08-04 06:25:26,356 [INFO] Catalog: 'Чудокаталог' — Date: 04.08.2026
+2026-08-04 06:25:26,356 [INFO] Output file: outputs/Чудокаталог - 04.08.2026.xlsx
+2026-08-04 06:25:26,356 [INFO] URL source: TARGET.txt
+2026-08-04 06:25:26,356 [INFO] Collection URL(s) to scrape: ['https://uk.representclo.com/collections/all']
+2026-08-04 06:25:26,356 [INFO] Collecting product URLs...
+2026-08-04 06:25:28,691 [INFO] Page 1: found 64 new product URLs (total 64)
+2026-08-04 06:25:32,034 [INFO] Page 2: found 59 new product URLs (total 123)
+2026-08-04 06:25:35,101 [INFO] Page 3: found 60 new product URLs (total 183)
+2026-08-04 06:25:37,966 [INFO] Page 4: found 60 new product URLs (total 243)
+2026-08-04 06:25:40,817 [INFO] Page 5: found 60 new product URLs (total 303)
+2026-08-04 06:25:43,748 [INFO] Page 6: found 60 new product URLs (total 363)
+2026-08-04 06:25:46,809 [INFO] Page 7: found 60 new product URLs (total 423)
+2026-08-04 06:25:49,820 [INFO] Page 8: found 58 new product URLs (total 481)
+2026-08-04 06:25:52,570 [INFO] Page 9: found 60 new product URLs (total 541)
+2026-08-04 06:25:55,144 [INFO] Page 10: found 60 new product URLs (total 601)
+2026-08-04 06:25:57,967 [INFO] Page 11: found 60 new product URLs (total 661)
+2026-08-04 06:26:00,890 [INFO] Page 12: found 59 new product URLs (total 720)
+2026-08-04 06:26:03,926 [INFO] Page 13: found 60 new product URLs (total 780)
+2026-08-04 06:26:06,875 [INFO] Page 14: found 59 new product URLs (total 839)
+2026-08-04 06:26:10,056 [INFO] Page 15: found 60 new product URLs (total 899)
+2026-08-04 06:26:13,455 [INFO] Page 16: found 60 new product URLs (total 959)
+2026-08-04 06:26:16,199 [INFO] Page 17: found 60 new product URLs (total 1019)
+2026-08-04 06:26:19,117 [INFO] Page 18: found 60 new product URLs (total 1079)
+2026-08-04 06:26:21,892 [INFO] Page 19: found 60 new product URLs (total 1139)
+2026-08-04 06:26:25,102 [INFO] Page 20: found 60 new product URLs (total 1199)
+2026-08-04 06:26:27,885 [INFO] Page 21: found 60 new product URLs (total 1259)
+2026-08-04 06:26:30,908 [INFO] Page 22: found 60 new product URLs (total 1319)
+2026-08-04 06:26:33,620 [INFO] Page 23: found 60 new product URLs (total 1379)
+2026-08-04 06:26:36,342 [INFO] Page 24: found 54 new product URLs (total 1433)
+2026-08-04 06:26:37,915 [INFO] Page 25: no new products — stopping pagination
+2026-08-04 06:26:37,916 [INFO] Found 1433 unique product URLs
+2026-08-04 06:47:01,040 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-hoodie-jet-black
+2026-08-04 06:47:02,544 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-flat-white
+2026-08-04 06:47:04,100 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-jet-black
+2026-08-04 06:47:35,086 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-black
+2026-08-04 06:47:37,082 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-flat-white
+2026-08-04 06:47:38,953 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-black
+2026-08-04 06:47:40,494 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-flat-white
+2026-08-04 06:50:05,646 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-antique-white
+2026-08-04 06:50:07,272 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-black-coffee
+2026-08-04 06:50:08,708 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hoodie-black-coffee
+2026-08-04 06:50:10,169 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-antique-white
+2026-08-04 06:50:11,682 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-black-coffee
+2026-08-04 07:03:01,863 [ERROR] Failed to fetch product page https://uk.representclo.com/products/storm-torn-cream: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/storm-torn-cream
+2026-08-04 07:04:09,969 [ERROR] Failed to fetch product page https://uk.representclo.com/products/team-247-jersey-short-glacier: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/team-247-jersey-short-glacier
+2026-08-04 07:06:02,387 [ERROR] Failed to fetch product page https://uk.representclo.com/products/textured-borg-hoodie-jet-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/textured-borg-hoodie-jet-black
+2026-08-04 07:06:04,822 [ERROR] Failed to fetch product page https://uk.representclo.com/products/textured-knit-beanie-jet-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/textured-knit-beanie-jet-black
+2026-08-04 07:06:30,005 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-jet-black
+2026-08-04 07:06:31,490 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-mid-brown
+2026-08-04 07:08:19,265 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-hoodie-vintage-grey-vintage-black
+2026-08-04 07:08:20,831 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-t-shirt-vintage-grey-vintage-black
+2026-08-04 07:08:23,106 [INFO] Saved 8849 rows to outputs/Чудокаталог - 04.08.2026.csv
+2026-08-04 07:08:24,688 [INFO] Excel report saved to outputs/Чудокаталог - 04.08.2026.xlsx
+2026-08-04 07:08:24,688 [INFO] Done. Saved 8849 rows to outputs/Чудокаталог - 04.08.2026.csv and outputs/Чудокаталог - 04.08.2026.xlsx
