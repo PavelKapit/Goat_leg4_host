@@ -1,0 +1,97 @@
+2026-09-11 08:33:05,052 [INFO] Catalog: 'Чудокаталог' — Date: 11.09.2026
+2026-09-11 08:33:05,052 [INFO] Output file: outputs/Чудокаталог - 11.09.2026.xlsx
+2026-09-11 08:33:05,052 [INFO] URL source: TARGET.txt
+2026-09-11 08:33:05,053 [INFO] Collection URL(s) to scrape: ['https://uk.representclo.com/collections/all']
+2026-09-11 08:33:05,053 [INFO] Collecting product URLs...
+2026-09-11 08:33:07,144 [INFO] Page 1: found 66 new product URLs (total 66)
+2026-09-11 08:33:09,717 [INFO] Page 2: found 58 new product URLs (total 124)
+2026-09-11 08:33:12,672 [INFO] Page 3: found 59 new product URLs (total 183)
+2026-09-11 08:33:15,670 [INFO] Page 4: found 60 new product URLs (total 243)
+2026-09-11 08:33:18,829 [INFO] Page 5: found 59 new product URLs (total 302)
+2026-09-11 08:33:21,545 [INFO] Page 6: found 59 new product URLs (total 361)
+2026-09-11 08:33:24,009 [INFO] Page 7: found 60 new product URLs (total 421)
+2026-09-11 08:33:26,996 [INFO] Page 8: found 59 new product URLs (total 480)
+2026-09-11 08:33:29,884 [INFO] Page 9: found 59 new product URLs (total 539)
+2026-09-11 08:33:32,971 [INFO] Page 10: found 60 new product URLs (total 599)
+2026-09-11 08:33:36,189 [INFO] Page 11: found 60 new product URLs (total 659)
+2026-09-11 08:33:39,410 [INFO] Page 12: found 60 new product URLs (total 719)
+2026-09-11 08:33:42,065 [INFO] Page 13: found 60 new product URLs (total 779)
+2026-09-11 08:33:45,105 [INFO] Page 14: found 60 new product URLs (total 839)
+2026-09-11 08:33:47,862 [INFO] Page 15: found 60 new product URLs (total 899)
+2026-09-11 08:33:50,836 [INFO] Page 16: found 60 new product URLs (total 959)
+2026-09-11 08:33:53,501 [INFO] Page 17: found 60 new product URLs (total 1019)
+2026-09-11 08:33:56,312 [INFO] Page 18: found 60 new product URLs (total 1079)
+2026-09-11 08:33:58,796 [INFO] Page 19: found 60 new product URLs (total 1139)
+2026-09-11 08:34:01,389 [INFO] Page 20: found 60 new product URLs (total 1199)
+2026-09-11 08:34:04,222 [INFO] Page 21: found 60 new product URLs (total 1259)
+2026-09-11 08:34:07,546 [INFO] Page 22: found 60 new product URLs (total 1319)
+2026-09-11 08:34:11,006 [INFO] Page 23: found 60 new product URLs (total 1379)
+2026-09-11 08:34:13,922 [INFO] Page 24: found 60 new product URLs (total 1439)
+2026-09-11 08:34:17,252 [INFO] Page 25: found 60 new product URLs (total 1499)
+2026-09-11 08:34:20,191 [INFO] Page 26: found 56 new product URLs (total 1555)
+2026-09-11 08:34:22,282 [INFO] Page 27: no new products — stopping pagination
+2026-09-11 08:34:22,284 [INFO] Found 1555 unique product URLs
+2026-09-11 08:56:12,926 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-hoodie-jet-black
+2026-09-11 08:56:14,531 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-flat-white
+2026-09-11 08:56:16,155 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-jet-black
+2026-09-11 08:56:48,342 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-black
+2026-09-11 08:56:49,823 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-flat-white
+2026-09-11 08:56:51,100 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-black
+2026-09-11 08:56:52,519 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-flat-white
+2026-09-11 08:59:15,973 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-antique-white
+2026-09-11 08:59:17,273 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-black-coffee
+2026-09-11 08:59:18,668 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hoodie-black-coffee
+2026-09-11 08:59:20,204 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-antique-white
+2026-09-11 08:59:21,511 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-black-coffee
+2026-09-11 09:08:04,832 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-metallica-local-crew-vest-jet-black: 502 Server Error: Bad Gateway for url: https://uk.representclo.com/products/represent-x-metallica-local-crew-vest-jet-black
+2026-09-11 09:08:16,544 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-metallica-ride-the-lightning-hoodie-vintage-grey: 502 Server Error: Bad Gateway for url: https://uk.representclo.com/products/represent-x-metallica-ride-the-lightning-hoodie-vintage-grey
+2026-09-11 09:08:17,271 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-oasis-maine-road-hoodie-washed-black: 502 Server Error: Bad Gateway for url: https://uk.representclo.com/products/represent-x-oasis-maine-road-hoodie-washed-black
+2026-09-11 09:08:17,985 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-oasis-maine-road-t-shirt-flat-white: 502 Server Error: Bad Gateway for url: https://uk.representclo.com/products/represent-x-oasis-maine-road-t-shirt-flat-white
+2026-09-11 09:08:35,523 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-oasis-owners-club-t-shirt-flat-white: HTTPSConnectionPool(host='uk.representclo.com', port=443): Read timed out. (read timeout=15)
+2026-09-11 09:08:36,246 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-oasis-owners-club-t-shirt-stained-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-oasis-owners-club-t-shirt-stained-black
+2026-09-11 09:08:37,157 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-baseball-cap-olive-night: 502 Server Error: Bad Gateway for url: https://uk.representclo.com/products/represent-x-puma-baseball-cap-olive-night
+2026-09-11 09:08:37,841 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-baseball-cap-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-baseball-cap-puma-black
+2026-09-11 09:08:38,506 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-bomber-flat-dark-gray: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-bomber-flat-dark-gray
+2026-09-11 09:08:39,213 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-coach-jacket-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-coach-jacket-puma-black
+2026-09-11 09:08:39,872 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-graphic-hoodie-flat-dark-gray: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-graphic-hoodie-flat-dark-gray
+2026-09-11 09:08:40,557 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-graphic-hoodie-night-pine: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-graphic-hoodie-night-pine
+2026-09-11 09:08:41,223 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-hoodie-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-hoodie-puma-black
+2026-09-11 09:08:41,899 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-jacket-night-pine: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-jacket-night-pine
+2026-09-11 09:08:44,536 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-jersey-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-jersey-puma-black
+2026-09-11 09:08:45,202 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-king-indoor-light-sand: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-king-indoor-light-sand
+2026-09-11 09:08:45,869 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-king-jersey-shoji-aop: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-king-jersey-shoji-aop
+2026-09-11 09:08:46,536 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-majesty-warm-white-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-majesty-warm-white-puma-black
+2026-09-11 09:08:47,213 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-pants-sand-dune: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-pants-sand-dune
+2026-09-11 09:08:47,870 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-shorts-galactic-grey: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-shorts-galactic-grey
+2026-09-11 09:08:48,555 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-shorts-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-shorts-puma-black
+2026-09-11 09:08:49,218 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-sling-bag-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-sling-bag-puma-black
+2026-09-11 09:08:49,907 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-speedcat-wolf-grey: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-speedcat-wolf-grey
+2026-09-11 09:08:50,589 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-super-team-frosted-ivory: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-super-team-frosted-ivory
+2026-09-11 09:08:51,253 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-sweatpant-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-sweatpant-puma-black
+2026-09-11 09:08:51,930 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-t-shirt-puma-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-t-shirt-puma-black
+2026-09-11 09:08:52,601 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-puma-t7-knit-jacket-pine-bark: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-puma-t7-knit-jacket-pine-bark
+2026-09-11 09:08:53,283 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-the-viper-room-dice-hoodie-vintage-grey: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-the-viper-room-dice-hoodie-vintage-grey
+2026-09-11 09:08:53,959 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-the-viper-room-dice-t-shirt-flat-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-the-viper-room-dice-t-shirt-flat-white
+2026-09-11 09:08:56,629 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-the-viper-room-glow-t-shirt-vintage-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-the-viper-room-glow-t-shirt-vintage-black
+2026-09-11 09:08:57,313 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-viper-room-x-47-cap-washed-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-viper-room-x-47-cap-washed-black
+2026-09-11 09:08:57,976 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-x-viper-souvenir-jacket-jet-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-x-viper-souvenir-jacket-jet-black
+2026-09-11 09:08:58,643 [ERROR] Failed to fetch product page https://uk.representclo.com/products/reptor-low-black-vintage-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/reptor-low-black-vintage-white
+2026-09-11 09:09:01,153 [ERROR] Failed to fetch product page https://uk.representclo.com/products/resent-hoodie-ash: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/resent-hoodie-ash
+2026-09-11 09:09:01,829 [ERROR] Failed to fetch product page https://uk.representclo.com/products/resent-plaid-shirt-dark-green: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/resent-plaid-shirt-dark-green
+2026-09-11 09:09:02,537 [ERROR] Failed to fetch product page https://uk.representclo.com/products/resent-t-shirt-ash: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/resent-t-shirt-ash
+2026-09-11 09:09:03,212 [ERROR] Failed to fetch product page https://uk.representclo.com/products/resort-shirt-latte: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/resort-shirt-latte
+2026-09-11 09:09:03,893 [ERROR] Failed to fetch product page https://uk.representclo.com/products/resort-shorts-latte: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/resort-shorts-latte
+2026-09-11 09:09:04,573 [ERROR] Failed to fetch product page https://uk.representclo.com/products/retro-football-long-sleeve-t-shirt-shell: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/retro-football-long-sleeve-t-shirt-shell
+2026-09-11 09:09:05,243 [ERROR] Failed to fetch product page https://uk.representclo.com/products/revere-manor-t-shirt-aged-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/revere-manor-t-shirt-aged-white
+2026-09-11 09:09:05,910 [ERROR] Failed to fetch product page https://uk.representclo.com/products/revere-manor-t-shirt-stained-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/revere-manor-t-shirt-stained-black
+2026-09-11 09:09:06,584 [ERROR] Failed to fetch product page https://uk.representclo.com/products/reverse-resent-t-shirt-flat-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/reverse-resent-t-shirt-flat-white
+2026-09-11 09:09:07,243 [ERROR] Failed to fetch product page https://uk.representclo.com/products/reversible-fade-out-sweater-cloud: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/reversible-fade-out-sweater-cloud
+2026-09-11 09:09:07,910 [ERROR] Failed to fetch product page https://uk.representclo.com/products/reversible-fade-out-sweater-nero: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/reversible-fade-out-sweater-nero
+2026-09-11 09:09:08,591 [ERROR] Failed to fetch product page https://uk.representclo.com/products/reversible-living-legacy-tour-hoodie-nero: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/reversible-living-legacy-tour-hoodie-nero
+2026-09-11 09:14:25,295 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-jet-black
+2026-09-11 09:14:26,688 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-mid-brown
+2026-09-11 09:15:57,952 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-hoodie-vintage-grey-vintage-black
+2026-09-11 09:15:59,391 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-t-shirt-vintage-grey-vintage-black
+2026-09-11 09:16:01,603 [INFO] Saved 9259 rows to outputs/Чудокаталог - 11.09.2026.csv
+2026-09-11 09:16:02,566 [INFO] Excel report saved to outputs/Чудокаталог - 11.09.2026.xlsx
+2026-09-11 09:16:02,566 [INFO] Done. Saved 9259 rows to outputs/Чудокаталог - 11.09.2026.csv and outputs/Чудокаталог - 11.09.2026.xlsx
