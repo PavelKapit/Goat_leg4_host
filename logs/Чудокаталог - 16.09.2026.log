@@ -1,0 +1,52 @@
+2026-09-16 09:03:45,131 [INFO] Catalog: 'Чудокаталог' — Date: 16.09.2026
+2026-09-16 09:03:45,131 [INFO] Output file: outputs/Чудокаталог - 16.09.2026.xlsx
+2026-09-16 09:03:45,131 [INFO] URL source: TARGET.txt
+2026-09-16 09:03:45,131 [INFO] Collection URL(s) to scrape: ['https://uk.representclo.com/collections/all']
+2026-09-16 09:03:45,131 [INFO] Collecting product URLs...
+2026-09-16 09:03:47,356 [INFO] Page 1: found 66 new product URLs (total 66)
+2026-09-16 09:03:50,230 [INFO] Page 2: found 58 new product URLs (total 124)
+2026-09-16 09:03:53,127 [INFO] Page 3: found 59 new product URLs (total 183)
+2026-09-16 09:03:57,106 [INFO] Page 4: found 60 new product URLs (total 243)
+2026-09-16 09:04:00,254 [INFO] Page 5: found 60 new product URLs (total 303)
+2026-09-16 09:04:03,043 [INFO] Page 6: found 58 new product URLs (total 361)
+2026-09-16 09:04:05,744 [INFO] Page 7: found 59 new product URLs (total 420)
+2026-09-16 09:04:08,323 [INFO] Page 8: found 59 new product URLs (total 479)
+2026-09-16 09:04:11,064 [INFO] Page 9: found 60 new product URLs (total 539)
+2026-09-16 09:04:13,799 [INFO] Page 10: found 60 new product URLs (total 599)
+2026-09-16 09:04:16,715 [INFO] Page 11: found 60 new product URLs (total 659)
+2026-09-16 09:04:20,090 [INFO] Page 12: found 60 new product URLs (total 719)
+2026-09-16 09:04:22,936 [INFO] Page 13: found 60 new product URLs (total 779)
+2026-09-16 09:04:25,869 [INFO] Page 14: found 60 new product URLs (total 839)
+2026-09-16 09:04:28,730 [INFO] Page 15: found 60 new product URLs (total 899)
+2026-09-16 09:04:32,295 [INFO] Page 16: found 60 new product URLs (total 959)
+2026-09-16 09:04:35,068 [INFO] Page 17: found 60 new product URLs (total 1019)
+2026-09-16 09:04:38,470 [INFO] Page 18: found 60 new product URLs (total 1079)
+2026-09-16 09:04:41,131 [INFO] Page 19: found 60 new product URLs (total 1139)
+2026-09-16 09:04:44,185 [INFO] Page 20: found 60 new product URLs (total 1199)
+2026-09-16 09:04:47,123 [INFO] Page 21: found 60 new product URLs (total 1259)
+2026-09-16 09:04:50,702 [INFO] Page 22: found 60 new product URLs (total 1319)
+2026-09-16 09:04:53,774 [INFO] Page 23: found 60 new product URLs (total 1379)
+2026-09-16 09:04:56,687 [INFO] Page 24: found 60 new product URLs (total 1439)
+2026-09-16 09:04:59,558 [INFO] Page 25: found 60 new product URLs (total 1499)
+2026-09-16 09:05:02,087 [INFO] Page 26: found 59 new product URLs (total 1558)
+2026-09-16 09:05:03,693 [INFO] Page 27: no new products — stopping pagination
+2026-09-16 09:05:03,695 [INFO] Found 1558 unique product URLs
+2026-09-16 09:26:13,379 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-hoodie-jet-black
+2026-09-16 09:26:15,107 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-flat-white
+2026-09-16 09:26:16,659 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-jet-black
+2026-09-16 09:26:50,538 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-black
+2026-09-16 09:26:52,008 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-flat-white
+2026-09-16 09:26:53,356 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-black
+2026-09-16 09:26:54,723 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-flat-white
+2026-09-16 09:29:28,321 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-antique-white
+2026-09-16 09:29:30,032 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-black-coffee
+2026-09-16 09:29:31,702 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hoodie-black-coffee
+2026-09-16 09:29:33,166 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-antique-white
+2026-09-16 09:29:34,622 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-black-coffee
+2026-09-16 09:45:19,548 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-jet-black
+2026-09-16 09:45:20,927 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-mid-brown
+2026-09-16 09:46:59,827 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-hoodie-vintage-grey-vintage-black
+2026-09-16 09:47:01,317 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-t-shirt-vintage-grey-vintage-black
+2026-09-16 09:47:04,015 [INFO] Saved 9585 rows to outputs/Чудокаталог - 16.09.2026.csv
+2026-09-16 09:47:05,949 [INFO] Excel report saved to outputs/Чудокаталог - 16.09.2026.xlsx
+2026-09-16 09:47:05,949 [INFO] Done. Saved 9585 rows to outputs/Чудокаталог - 16.09.2026.csv and outputs/Чудокаталог - 16.09.2026.xlsx
