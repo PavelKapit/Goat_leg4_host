@@ -1,0 +1,67 @@
+2026-09-25 09:21:59,278 [INFO] Catalog: 'Чудокаталог' — Date: 25.09.2026
+2026-09-25 09:21:59,278 [INFO] Output file: outputs/Чудокаталог - 25.09.2026.xlsx
+2026-09-25 09:21:59,278 [INFO] URL source: TARGET.txt
+2026-09-25 09:21:59,278 [INFO] Collection URL(s) to scrape: ['https://uk.representclo.com/collections/all']
+2026-09-25 09:21:59,278 [INFO] Collecting product URLs...
+2026-09-25 09:22:01,240 [INFO] Page 1: found 64 new product URLs (total 64)
+2026-09-25 09:22:03,497 [INFO] Page 2: found 60 new product URLs (total 124)
+2026-09-25 09:22:06,137 [INFO] Page 3: found 59 new product URLs (total 183)
+2026-09-25 09:22:10,094 [INFO] Page 4: found 60 new product URLs (total 243)
+2026-09-25 09:22:12,737 [INFO] Page 5: found 59 new product URLs (total 302)
+2026-09-25 09:22:15,381 [INFO] Page 6: found 58 new product URLs (total 360)
+2026-09-25 09:22:17,632 [INFO] Page 7: found 60 new product URLs (total 420)
+2026-09-25 09:22:20,367 [INFO] Page 8: found 59 new product URLs (total 479)
+2026-09-25 09:22:22,697 [INFO] Page 9: found 60 new product URLs (total 539)
+2026-09-25 09:22:25,114 [INFO] Page 10: found 60 new product URLs (total 599)
+2026-09-25 09:22:28,420 [INFO] Page 11: found 60 new product URLs (total 659)
+2026-09-25 09:22:31,508 [INFO] Page 12: found 60 new product URLs (total 719)
+2026-09-25 09:22:35,178 [INFO] Page 13: found 60 new product URLs (total 779)
+2026-09-25 09:22:38,676 [INFO] Page 14: found 60 new product URLs (total 839)
+2026-09-25 09:22:41,512 [INFO] Page 15: found 60 new product URLs (total 899)
+2026-09-25 09:22:44,291 [INFO] Page 16: found 60 new product URLs (total 959)
+2026-09-25 09:22:46,957 [INFO] Page 17: found 60 new product URLs (total 1019)
+2026-09-25 09:22:49,555 [INFO] Page 18: found 60 new product URLs (total 1079)
+2026-09-25 09:22:52,299 [INFO] Page 19: found 60 new product URLs (total 1139)
+2026-09-25 09:22:55,333 [INFO] Page 20: found 60 new product URLs (total 1199)
+2026-09-25 09:22:58,044 [INFO] Page 21: found 60 new product URLs (total 1259)
+2026-09-25 09:23:01,172 [INFO] Page 22: found 60 new product URLs (total 1319)
+2026-09-25 09:23:04,347 [INFO] Page 23: found 60 new product URLs (total 1379)
+2026-09-25 09:23:06,650 [INFO] Page 24: found 60 new product URLs (total 1439)
+2026-09-25 09:23:09,149 [INFO] Page 25: found 60 new product URLs (total 1499)
+2026-09-25 09:23:11,320 [INFO] Page 26: found 60 new product URLs (total 1559)
+2026-09-25 09:23:12,775 [INFO] Page 27: found 7 new product URLs (total 1566)
+2026-09-25 09:23:14,246 [INFO] Page 28: no new products — stopping pagination
+2026-09-25 09:23:14,248 [INFO] Found 1566 unique product URLs
+2026-09-25 09:33:36,854 [ERROR] Failed to fetch product page https://uk.representclo.com/products/border-short-whisper-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/border-short-whisper-white
+2026-09-25 09:33:37,439 [ERROR] Failed to fetch product page https://uk.representclo.com/products/british-cowboys-hoodie-dusty-brown: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/british-cowboys-hoodie-dusty-brown
+2026-09-25 09:34:42,751 [ERROR] Failed to fetch product page https://uk.representclo.com/products/cotton-tailored-short-beige: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/cotton-tailored-short-beige
+2026-09-25 09:34:44,951 [ERROR] Failed to fetch product page https://uk.representclo.com/products/cotton-workwear-pant-dark-olive: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/cotton-workwear-pant-dark-olive
+2026-09-25 09:40:53,389 [ERROR] Failed to fetch product page https://uk.representclo.com/products/initial-boxy-t-shirt-flat-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/initial-boxy-t-shirt-flat-white
+2026-09-25 09:43:46,794 [ERROR] Failed to fetch product page https://uk.representclo.com/products/initial-track-jacket-dune: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/initial-track-jacket-dune
+2026-09-25 09:44:15,116 [ERROR] Failed to fetch product page https://uk.representclo.com/products/knitted-bomber-jacket-jet-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/knitted-bomber-jacket-jet-black
+2026-09-25 09:45:25,708 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-hoodie-jet-black
+2026-09-25 09:45:26,927 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-flat-white
+2026-09-25 09:45:28,074 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-jet-black
+2026-09-25 09:45:43,117 [ERROR] Failed to fetch product page https://uk.representclo.com/products/los-angeles-dodgers-x-represent-t-shirt-stained-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/los-angeles-dodgers-x-represent-t-shirt-stained-black
+2026-09-25 09:45:43,698 [ERROR] Failed to fetch product page https://uk.representclo.com/products/los-angeles-rams-x-represent-hoodie-stained-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/los-angeles-rams-x-represent-hoodie-stained-black
+2026-09-25 09:46:03,758 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-black
+2026-09-25 09:46:05,016 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-flat-white
+2026-09-25 09:46:06,311 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-black
+2026-09-25 09:46:07,900 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-flat-white
+2026-09-25 09:48:37,076 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-antique-white
+2026-09-25 09:48:38,405 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-black-coffee
+2026-09-25 09:48:39,729 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hoodie-black-coffee
+2026-09-25 09:48:40,925 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-antique-white
+2026-09-25 09:48:42,333 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-black-coffee
+2026-09-25 09:49:41,271 [ERROR] Failed to fetch product page https://uk.representclo.com/products/quilted-flannel-shirt-pink-grey-check: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/quilted-flannel-shirt-pink-grey-check
+2026-09-25 09:50:07,884 [ERROR] Failed to fetch product page https://uk.representclo.com/products/r3-baggy-denim-aged-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/r3-baggy-denim-aged-black
+2026-09-25 09:51:50,615 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-crest-short-jet-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-crest-short-jet-black
+2026-09-25 09:51:54,219 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-england-bag-washed-black: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-england-bag-washed-black
+2026-09-25 09:51:54,801 [ERROR] Failed to fetch product page https://uk.representclo.com/products/represent-england-football-flat-white: 503 Server Error: Service Unavailable for url: https://uk.representclo.com/products/represent-england-football-flat-white
+2026-09-25 10:03:19,742 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-jet-black
+2026-09-25 10:03:20,960 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-mid-brown
+2026-09-25 10:04:53,243 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-hoodie-vintage-grey-vintage-black
+2026-09-25 10:04:54,406 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-t-shirt-vintage-grey-vintage-black
+2026-09-25 10:04:56,405 [INFO] Saved 9520 rows to outputs/Чудокаталог - 25.09.2026.csv
+2026-09-25 10:04:58,126 [INFO] Excel report saved to outputs/Чудокаталог - 25.09.2026.xlsx
+2026-09-25 10:04:58,126 [INFO] Done. Saved 9520 rows to outputs/Чудокаталог - 25.09.2026.csv and outputs/Чудокаталог - 25.09.2026.xlsx
