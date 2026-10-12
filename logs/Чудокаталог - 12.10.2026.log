@@ -1,0 +1,45 @@
+2026-10-12 11:38:47,941 [INFO] Catalog: 'Чудокаталог' — Date: 12.10.2026
+2026-10-12 11:38:47,941 [INFO] Output file: outputs/Чудокаталог - 12.10.2026.xlsx
+2026-10-12 11:38:47,941 [INFO] URL source: TARGET.txt
+2026-10-12 11:38:47,941 [INFO] Collection URL(s) to scrape: ['https://uk.representclo.com/collections/all']
+2026-10-12 11:38:47,941 [INFO] Collecting product URLs...
+2026-10-12 11:38:50,673 [INFO] Page 1: found 64 new product URLs (total 64)
+2026-10-12 11:38:53,302 [INFO] Page 2: found 60 new product URLs (total 124)
+2026-10-12 11:38:56,160 [INFO] Page 3: found 58 new product URLs (total 182)
+2026-10-12 11:38:58,982 [INFO] Page 4: found 58 new product URLs (total 240)
+2026-10-12 11:39:01,438 [INFO] Page 5: found 60 new product URLs (total 300)
+2026-10-12 11:39:04,622 [INFO] Page 6: found 60 new product URLs (total 360)
+2026-10-12 11:39:07,477 [INFO] Page 7: found 59 new product URLs (total 419)
+2026-10-12 11:39:10,344 [INFO] Page 8: found 60 new product URLs (total 479)
+2026-10-12 11:39:13,390 [INFO] Page 9: found 60 new product URLs (total 539)
+2026-10-12 11:39:15,773 [INFO] Page 10: found 60 new product URLs (total 599)
+2026-10-12 11:39:18,502 [INFO] Page 11: found 60 new product URLs (total 659)
+2026-10-12 11:39:22,210 [INFO] Page 12: found 60 new product URLs (total 719)
+2026-10-12 11:39:25,073 [INFO] Page 13: found 60 new product URLs (total 779)
+2026-10-12 11:39:27,706 [INFO] Page 14: found 60 new product URLs (total 839)
+2026-10-12 11:39:30,307 [INFO] Page 15: found 60 new product URLs (total 899)
+2026-10-12 11:39:33,250 [INFO] Page 16: found 60 new product URLs (total 959)
+2026-10-12 11:39:36,086 [INFO] Page 17: found 60 new product URLs (total 1019)
+2026-10-12 11:39:38,636 [INFO] Page 18: found 60 new product URLs (total 1079)
+2026-10-12 11:39:41,448 [INFO] Page 19: found 60 new product URLs (total 1139)
+2026-10-12 11:39:42,836 [INFO] Page 20: found 3 new product URLs (total 1142)
+2026-10-12 11:39:44,434 [INFO] Page 21: no new products — stopping pagination
+2026-10-12 11:39:44,435 [INFO] Found 1142 unique product URLs
+2026-10-12 11:56:05,600 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-hoodie-jet-black
+2026-10-12 11:56:06,872 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-flat-white
+2026-10-12 11:56:08,243 [WARNING] No sizes found for https://uk.representclo.com/products/london-store-t-shirt-jet-black
+2026-10-12 11:56:29,078 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-black
+2026-10-12 11:56:30,383 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-hoodie-flat-white
+2026-10-12 11:56:32,186 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-black
+2026-10-12 11:56:33,396 [WARNING] No sizes found for https://uk.representclo.com/products/manchester-store-t-shirt-flat-white
+2026-10-12 11:58:04,678 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-antique-white
+2026-10-12 11:58:06,039 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hat-black-coffee
+2026-10-12 11:58:07,452 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-hoodie-black-coffee
+2026-10-12 11:58:08,757 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-antique-white
+2026-10-12 11:58:10,272 [WARNING] No sizes found for https://uk.representclo.com/products/owners-club-cafe-t-shirt-black-coffee
+2026-10-12 12:08:22,193 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-jet-black
+2026-10-12 12:08:23,812 [WARNING] No sizes found for https://uk.representclo.com/products/three-dogs-jersey-mid-brown
+2026-10-12 12:09:26,000 [WARNING] No sizes found for https://uk.representclo.com/products/your-times-up-hoodie-vintage-grey-vintage-black
+2026-10-12 12:09:28,443 [INFO] Saved 6912 rows to outputs/Чудокаталог - 12.10.2026.csv
+2026-10-12 12:09:29,358 [INFO] Excel report saved to outputs/Чудокаталог - 12.10.2026.xlsx
+2026-10-12 12:09:29,358 [INFO] Done. Saved 6912 rows to outputs/Чудокаталог - 12.10.2026.csv and outputs/Чудокаталог - 12.10.2026.xlsx
